@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The problem sets for the course included both exercises and problems that students were asked to solve. Students were required to turn in only the problems but were encouraged to solve the exercises to help master the course material. Many of the exercise questions were taken from the course textbook.
+ASSIGNMENTS SOLUTIONS Problem Set 1 (PDF) (PDF) Problem Set 2 (PDF) (PDF) Problem Set 3 (PDF) (PDF) Problem Set 4 (PDF) (PDF) Problem Set 5 (PDF) (PDF) Problem Set 6 (PDF) (PDF) Problem Set 7 (PDF)</description>
+    </item>
+    
+    <item>
+      <title>editDistance.c</title>
+      <link>/resources/editdistance-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/editdistance-1/data.json</guid>
+      <description>This resource contains c code for the problem set on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>editDistance.java</title>
+      <link>/resources/editdistance/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/editdistance/data.json</guid>
+      <description>This resource contains java code for the problem sets on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>input1.txt</title>
+      <link>/resources/input1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/input1/data.json</guid>
+      <description>This resource contains input data for the problem sets on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>input2.txt</title>
+      <link>/resources/input2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/input2/data.json</guid>
+      <description>This resource contains input data for the problem sets on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>input3.txt</title>
+      <link>/resources/input3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/input3/data.json</guid>
+      <description>This resource contains input data on the problem sets for edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>ps1.pdf</title>
+      <link>/resources/ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1/data.json</guid>
+      <description>This resource contains three problem sets on asymptotic notation, recurrences and unimodal search.</description>
+    </item>
+    
+    <item>
+      <title>ps1sol.pdf</title>
+      <link>/resources/ps1sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1sol/data.json</guid>
+      <description>This resource contains solutions to the problem set on aymptotic notation, recurrences and unimodal search.</description>
+    </item>
+    
+    <item>
+      <title>ps2.pdf</title>
+      <link>/resources/ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2/data.json</guid>
+      <description>This resource contains three problem sets on sorting and weighted median.</description>
+    </item>
+    
+    <item>
+      <title>ps2sol.pdf</title>
+      <link>/resources/ps2sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2sol/data.json</guid>
+      <description>This resource contains solution to the problem set on sorting and weighted median.</description>
+    </item>
+    
+    <item>
+      <title>ps3.pdf</title>
+      <link>/resources/ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3/data.json</guid>
+      <description>This resource contains problem sets on pattern matching and 2-universal hashing.</description>
+    </item>
+    
+    <item>
+      <title>ps3sol.pdf</title>
+      <link>/resources/ps3sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3sol/data.json</guid>
+      <description>This resource contains solutions to the problem sets on pattern matching and 2-universal hashing.</description>
+    </item>
+    
+    <item>
+      <title>ps4.pdf</title>
+      <link>/resources/ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4/data.json</guid>
+      <description>This resource contains problem sets on treaps and tree balance.</description>
+    </item>
+    
+    <item>
+      <title>ps4sol.pdf</title>
+      <link>/resources/ps4sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4sol/data.json</guid>
+      <description>This resource contains the solutions to problem sets on treaps and tree balance.</description>
+    </item>
+    
+    <item>
+      <title>ps5.pdf</title>
+      <link>/resources/ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5/data.json</guid>
+      <description>This resource contains problem sets on skip lists, b-trees and points in the plane.</description>
+    </item>
+    
+    <item>
+      <title>ps5sol.pdf</title>
+      <link>/resources/ps5sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5sol/data.json</guid>
+      <description>This resource contains solutions on the problem sets for skip lists, b-trees and points in the plane.</description>
+    </item>
+    
+    <item>
+      <title>ps6.pdf</title>
+      <link>/resources/ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6/data.json</guid>
+      <description>This resource contains problem sets on electronic billboard and cost of restructuring red-black trees</description>
+    </item>
+    
+    <item>
+      <title>ps6sol.pdf</title>
+      <link>/resources/ps6sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6sol/data.json</guid>
+      <description>This resource contains solutions to the problem sets on electronic billboard and cost of restructuring red-black trees.</description>
+    </item>
+    
+    <item>
+      <title>ps7.pdf</title>
+      <link>/resources/ps7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps7/data.json</guid>
+      <description>This resource contains problem sets on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>ps7sol.pdf</title>
+      <link>/resources/ps7sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps7sol/data.json</guid>
+      <description>This resource contains solutions to the problem sets on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>ps8.pdf</title>
+      <link>/resources/ps8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps8/data.json</guid>
+      <description>This resource contains problem sets on topics like: No left turns and Video game design.</description>
+    </item>
+    
+    <item>
+      <title>ps8sol.pdf</title>
+      <link>/resources/ps8sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps8sol/data.json</guid>
+      <description>This resource contains solutions to the problem sets on the topics: No left turns and Video game design.</description>
+    </item>
+    
+    <item>
+      <title>ps9.pdf</title>
+      <link>/resources/ps9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps9/data.json</guid>
+      <description>This resource contains a problem set on parallel merge sort.</description>
+    </item>
+    
+    <item>
+      <title>ps9sol.pdf</title>
+      <link>/resources/ps9sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps9sol/data.json</guid>
+      <description>This resource contains solution to the problem set on parallel merge sort.</description>
+    </item>
+    
+    <item>
+      <title>sample.txt</title>
+      <link>/resources/sample/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample/data.json</guid>
+      <description>This resource contains sample input for the problem set on edit distance and greedsox.</description>
+    </item>
+    
+    <item>
+      <title>samplesol.txt</title>
+      <link>/resources/samplesol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/samplesol/data.json</guid>
+      <description>This resource contains sample output for the problem set on edit distance and greedsox.</description>
+    </item>
+    
+  </channel>
+</rss>
